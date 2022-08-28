@@ -58,6 +58,7 @@ public class TwoPointNew {
             }
 
         }
+
         throw new IllegalStateException();
     }
     private  static int[] margeArray(int[] one, int[] two){
